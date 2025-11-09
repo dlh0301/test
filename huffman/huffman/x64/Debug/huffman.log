@@ -1,0 +1,35 @@
+﻿  huffman.cpp
+C:\Users\warriors\source\repos\huffman\huffman.cpp(115,10): error C2601: “storeHuffmanTree”: 本地函数定义是非法的
+  C:\Users\warriors\source\repos\huffman\huffman.cpp(65,68):
+  此行有一个“{”没有匹配项
+  
+C:\Users\warriors\source\repos\huffman\huffman.cpp(157,6): error C2601: “readLine”: 本地函数定义是非法的
+  C:\Users\warriors\source\repos\huffman\huffman.cpp(65,68):
+  此行有一个“{”没有匹配项
+  
+C:\Users\warriors\source\repos\huffman\huffman.cpp(172,10): error C2951: 模板 声明只能在全局、命名空间或类范围内使用
+C:\Users\warriors\source\repos\huffman\huffman.cpp(177,2): error C2953: “Compare”: 类模板已经定义
+  C:\Users\warriors\source\repos\huffman\huffman.cpp(24,8):
+  参见“Compare”的声明
+  
+C:\Users\warriors\source\repos\huffman\huffman.cpp(179,6): error C2601: “compress”: 本地函数定义是非法的
+  C:\Users\warriors\source\repos\huffman\huffman.cpp(65,68):
+  此行有一个“{”没有匹配项
+  
+C:\Users\warriors\source\repos\huffman\huffman.cpp(229,22): error C2601: “buildHuffmanTree”: 本地函数定义是非法的
+  C:\Users\warriors\source\repos\huffman\huffman.cpp(65,68):
+  此行有一个“{”没有匹配项
+  
+C:\Users\warriors\source\repos\huffman\huffman.cpp(252,6): error C2601: “uncompress”: 本地函数定义是非法的
+  C:\Users\warriors\source\repos\huffman\huffman.cpp(65,68):
+  此行有一个“{”没有匹配项
+  
+C:\Users\warriors\source\repos\huffman\huffman.cpp(300,6): error C2601: “deleteTree”: 本地函数定义是非法的
+  C:\Users\warriors\source\repos\huffman\huffman.cpp(65,68):
+  此行有一个“{”没有匹配项
+  
+C:\Users\warriors\source\repos\huffman\huffman.cpp(309,5): error C2601: “main”: 本地函数定义是非法的
+  C:\Users\warriors\source\repos\huffman\huffman.cpp(65,68):
+  此行有一个“{”没有匹配项
+  
+C:\Users\warriors\source\repos\huffman\huffman.cpp(65,68): error C1075: “{”: 未找到匹配令牌
